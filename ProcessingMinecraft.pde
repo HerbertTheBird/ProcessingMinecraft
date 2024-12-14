@@ -84,7 +84,7 @@ float height_above = player_height-camera_height;
 
 final int cubeSize = 16;
 final int blockSize = cubeSize;
-int worldBottom = -3*cubeSize;
+int worldBottom = -2*cubeSize;
 int chunkSize = 16;
 int chunkWidth = chunkSize*blockSize;
 final float defaultG = 0.12;
@@ -1036,7 +1036,7 @@ class Chunk{
         if((int)(noise-8) > 0){
           addBlock(new PVector(x, 0, z), 2);
         }
-        for(int y = worldBottom; y < 0; y += blockSize){
+        for(int y = worldBottom-blockSize; y < 0; y += blockSize){
           addBlock(new PVector(x, y, z), 2);
         }
         for (int k = max(0, (int)(noise-8)); k < max(noise, 3); ++k) {
