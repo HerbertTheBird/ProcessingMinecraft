@@ -1,7 +1,9 @@
 # ProcessingMinecraft
 A small Minecraft clone made in Processing.
 
-<img width="1710" alt="Screenshot 2024-12-14 at 12 29 33 AM" src="https://github.com/user-attachments/assets/b146b767-6d17-495d-b88f-c703d99d61e0" />
+[Watch the demo video on YouTube](https://youtu.be/4uVTkWX0EGs)
+
+<img width="1710" alt="Screenshot 2024-12-14 at 12 29 33 AM" src="https://github.com/user-attachments/assets/da3708ec-dbe1-468c-9385-c22b8dcd0f18" />
 
 ## Setup Instructions
 
