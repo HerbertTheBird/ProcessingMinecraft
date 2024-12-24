@@ -5,7 +5,8 @@ A small Minecraft clone made in Processing.
 
 <img width="1710" alt="Screenshot 2024-12-14 at 12 29 33 AM" src="https://github.com/user-attachments/assets/da3708ec-dbe1-468c-9385-c22b8dcd0f18" />
 
-## Setup Instructions
+
+## Setup Instructions in Processing
 
 1. **Install Processing**  
    Download and install Processing from [processing.org](https://processing.org/download).
@@ -34,7 +35,7 @@ A small Minecraft clone made in Processing.
 
 ## Controls
 
-- **`esc` or `Command+W`**: Stop the code (locks your mouse, so this is the only way to exit).  
+- **`esc` or `Command+W`**: Stop the code (locks your mouse, so this is the **only way to exit**).  
 - **`WASD`**: Move.  
 - **`Space`**: Jump.  
 - **`Control` while moving**: Sprint.  
