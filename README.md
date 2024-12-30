@@ -9,6 +9,14 @@ A small Minecraft clone made in Processing.
 
 https://herbertthebird.itch.io/processingminecraft
 
+Open zip file
+
+Run executable
+
+If prompted for microphone, press **Decline**
+
+Accept if prompted for mouse control (since it uses java.awt.robot to lock the mouse)
+
 ## or Setup in Processing
 
 1. **Install Processing**  
